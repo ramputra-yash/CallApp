@@ -1,0 +1,19 @@
+{
+  "name": "callapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "ngrok": "^5.0.0-beta.2",
+    "socket.io": "^4.8.1"
+  }
+}
